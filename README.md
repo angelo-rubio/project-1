@@ -38,4 +38,4 @@ pip install pandas numpy matplotlib seaborn jupyter
 - Sales Factors: Highlights key drivers of sales performance.
 
 ## Contributing
-Contributions in the form of issue reports or suggestions are welcome. ```
+Contributions in the form of issue reports or suggestions are welcome.
